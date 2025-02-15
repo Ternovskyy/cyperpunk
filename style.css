@@ -1,0 +1,14 @@
+.header_container_nav {
+  size: 100%;
+  right: 0%;
+  left: 0%;
+  position: fixed;
+}
+
+.header {
+  background-image: url(./img/header_back.jpg);
+  width: 1920px;
+  height: 1000px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
